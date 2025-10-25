@@ -1,0 +1,16 @@
+{
+  "name": "the-pet-treck",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "framer-motion": "^11.0.0",
+    "tailwindcss": "^3.4.0"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
